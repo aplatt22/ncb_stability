@@ -1,0 +1,2 @@
+train,split,model,type,seed,y,names,error_type,X_descriptors,n_estimators,max_depth,max_features,min_samples_split,min_samples_leaf,min_weight_fraction_leaf,ccp_alpha,learning_rate,subsample,validation_fraction,rmse
+65,RND,GB,reg,43,dG_C5,Cofactor,rmse,"['N1_NBO-q', 'C2_NBO-q', 'N1_f-', 'C4H_f-', 'C4H_NBO-q']",60,5,0.5,2,1,0,0,0.01,1.0,0.3,3.2162729718934906

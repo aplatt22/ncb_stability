@@ -1,0 +1,29 @@
+ROBERT v 1.0.6 2024/06/28 09:47:18 
+How to cite: Dalmau, D.; Alegre Requena, J. V. ChemRxiv, 2023, DOI: 10.26434/chemrxiv-2023-k994h
+
+Command line used in ROBERT: python -m robert --y "dG_C5" --names "Cofactor" --csv_name "bmc_dft_robert_input_NBOonly_top08.csv" --ignore "[Cofactor]" --model "[MVL]" --train "[85]"
+
+
+o  Starting generation of ML models with the GENERATE module
+
+o  Database bmc_dft_robert_input_NBOonly_top08_CURATE.csv loaded successfully, including:
+   - 132 datapoints
+   - 8 accepted descriptors
+   - 1 ignored descriptors
+   - 0 discarded descriptors
+
+o  Starting heatmap scan with 1 ML models (['MVL']) and 1 training sizes ([85]).
+   Heatmap generation:
+   - 1/6 - Training size: 85, ML model: MVL, seed: 0 
+   - 2/6 - Training size: 85, ML model: MVL, seed: 8 
+   - 3/6 - Training size: 85, ML model: MVL, seed: 19 
+   - 4/6 - Training size: 85, ML model: MVL, seed: 43 
+   - 5/6 - Training size: 85, ML model: MVL, seed: 70 
+   - 6/6 - Training size: 85, ML model: MVL, seed: 233 
+
+o  Heatmap ML models no PFI filter succesfully created in GENERATE/Raw_data
+
+o  Heatmap ML models with PFI filter succesfully created in GENERATE/Raw_data
+
+Time GENERATE: 0.99 seconds
+

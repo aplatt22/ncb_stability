@@ -1,0 +1,27 @@
+   GoodVibes v3.2 2024/04/02 14:41:29
+   Citation: Luchini, G.; Alegre-Requena, J. V.; Funes-Ardoiz, I.; Paton, R. S. F1000Research, 2020, 9, 291.
+   GoodVibes version 3.2 DOI: 10.12688/f1000research.22758.1
+
+o  Requested: --spc spc --csv -c 1 
+
+   Temperature = 298.15 Kelvin   Concentration = 1.0 mol/L
+   All energetic values below shown in Hartree unless otherwise specified.
+
+   Using vibrational scale factor 1.0 for PBE1PBE/6-31+G(d) level of theory
+
+   Caution! Implicit solvation (SMD/CPCM) detected. Enthalpic and entropic terms cannot be safely separated. Use them at your own risk!
+
+   Entropic quasi-harmonic treatment: frequency cut-off value of 100.0 wavenumbers will be applied.
+   QS = Grimme: Using a mixture of RRHO and Free-rotor vibrational entropies.
+   REF: Grimme, S. Chem. Eur. J. 2012, 18, 9955-9964
+
+   Combining final single point energy with thermal corrections.
+
+   Structure,E_SPC,E,ZPE,H_SPC,T.S,T.qh-S,G(T)_SPC,qh-G(T)_SPC,
+   **********************************************************************************************************************************************
+o  buohnah_crest_clustered_05_conf_01_opt,-650.189004,-649.965099,0.259507,-649.914043,0.054992,0.052569,-649.969035,-649.966611,
+o  buohnah_crest_clustered_05_conf_02_opt,-650.190728,-649.967510,0.260639,-649.915361,0.051868,0.050663,-649.967229,-649.966025,
+o  buohnah_crest_clustered_05_conf_03_opt,-650.187976,-649.964031,0.259739,-649.912863,0.054653,0.052442,-649.967517,-649.965305,
+o  buohnah_crest_clustered_05_conf_04_opt,-650.189573,-649.965906,0.259092,-649.914846,0.055938,0.053315,-649.970784,-649.968161,
+o  buohnah_crest_clustered_05_conf_05_opt,-650.189325,-649.965913,0.259759,-649.914149,0.054554,0.052312,-649.968703,-649.966461,
+   **********************************************************************************************************************************************

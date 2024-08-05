@@ -1,0 +1,9 @@
+
+   o  Results saved in PREDICT/Results_MVL_85_PFI.dat:
+      -  Points Train:Validation:Test = 101:18:13
+      -  Proportion Train:Validation:Test = 77:14:10
+      -  Number of descriptors = 16
+      -  Proportion (train+valid.) points:descriptors = 119:16
+      -  Train : R2 = 0.98, MAE = 0.55, RMSE = 0.75
+      -  Valid. : R2 = 0.96, MAE = 0.59, RMSE = 0.73
+      -  Test : R2 = 0.97, MAE = 0.68, RMSE = 0.81
