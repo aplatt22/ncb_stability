@@ -7,3 +7,4 @@ Scripts include:
     * generated_bmcs.csv
     * censo_assist_bmcs.csv
 
+# NEED TO MOVE THE DATA TO EXIST IN A MAIN FOLDER AND UPDATE SCRIPTS ACCORDINGLY
