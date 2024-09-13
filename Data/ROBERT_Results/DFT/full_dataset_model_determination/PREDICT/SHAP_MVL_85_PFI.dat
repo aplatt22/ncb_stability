@@ -1,0 +1,19 @@
+
+   o  SHAP plot saved in PREDICT/SHAP_MVL_85_PFI.png
+   o  SHAP values saved in PREDICT/SHAP_MVL_85_PFI.dat:
+      -  C3_f- = min: -3.5, max: 5.8
+      -  C5_NBO-q = min: -3.0, max: 3.9
+      -  C4H_f- = min: -9.1, max: 3.5
+      -  C4H_NBO-q = min: -4.4, max: 3.3
+      -  C2_NBO-q = min: -5.4, max: 2.5
+      -  C6_f+ = min: -1.6, max: 2.2
+      -  C3_NBO-q = min: -1.8, max: 2.1
+      -  C3sub_f- = min: -3.9, max: 2.1
+      -  N1_NBO-q = min: -1.8, max: 1.7
+      -  C6_f- = min: -2.0, max: 1.6
+      -  C5_f- = min: -1.8, max: 1.5
+      -  N1_f- = min: -1.7, max: 1.3
+      -  C4_f+ = min: -0.9, max: 1.2
+      -  C3_f+ = min: -0.49, max: 0.52
+      -  C5_f+ = min: -0.37, max: 0.35
+      -  C4H_f+ = min: -0.57, max: 0.32

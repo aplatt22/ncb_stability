@@ -1,0 +1,14 @@
+
+   o  PFI plot saved in PREDICT/PFI_MVL_85_No_PFI.png
+   o  PFI values saved in PREDICT/PFI_MVL_85_No_PFI.dat:
+      Original score (from model.score, R2) = 0.8
+      -  NumValenceElectrons = 1.4e+01 +- 2.9
+      -  Kappa1 = 5.5 +- 1.4
+      -  LUMO = 2.7 +- 0.88
+      -  Chi4n = 1.3 +- 0.31
+      -  BalabanJ = 1.1 +- 0.34
+      -  Dipole module/D = 0.88 +- 0.26
+      -  C1=CNC=CC1_N_Dispersion coefficient C6 = 0.63 +- 0.2
+      -  SPS = 0.57 +- 0.16
+      -  HOMO-LUMO gap/eV = 0.53 +- 0.085
+      -  MinEStateIndex = 0.33 +- 0.041
