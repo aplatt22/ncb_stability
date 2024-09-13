@@ -1,9 +1,0 @@
-
-   o  PFI plot saved in PREDICT/PFI_MVL_85_PFI.png
-   o  PFI values saved in PREDICT/PFI_MVL_85_PFI.dat:
-      Original score (from model.score, R2) = 0.96
-      -  C4H_NBO-q = 0.67 +- 0.15
-      -  C5_NBO-q = 0.55 +- 0.1
-      -  C3_f- = 0.026 +- 0.0052
-      -  C2_NBO-q = 0.0064 +- 0.011
-      -  N1_NBO-q = 0.0051 +- 0.0079

@@ -1,2 +1,0 @@
-train,split,model,type,seed,y,names,error_type,X_descriptors,rmse
-85,RND,MVL,reg,43,dG_C5,Cofactor,rmse,"['N1_NBO-q', 'C2_NBO-q', 'C5_NBO-q', 'C3_f-', 'C4H_NBO-q']",0.9122988924415866

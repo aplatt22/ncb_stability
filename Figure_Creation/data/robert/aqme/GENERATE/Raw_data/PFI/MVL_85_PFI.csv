@@ -1,2 +1,0 @@
-train,split,model,type,seed,y,names,error_type,X_descriptors,rmse
-85,RND,MVL,reg,0,dG_C5,code_name,rmse,"['C1=CNC=CC1_N_Dispersion coefficient C6', 'HOMO-LUMO gap/eV', 'Dipole module/D', 'LUMO', 'MinEStateIndex', 'SPS', 'NumValenceElectrons', 'BalabanJ', 'Chi4n']",1.3256882518696533

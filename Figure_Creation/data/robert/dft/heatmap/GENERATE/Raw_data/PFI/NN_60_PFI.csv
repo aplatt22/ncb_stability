@@ -1,2 +1,0 @@
-train,split,model,type,seed,y,names,error_type,X_descriptors,batch_size,hidden_layer_sizes,learning_rate_init,max_iter,validation_fraction,alpha,shuffle,tol,early_stopping,beta_1,beta_2,epsilon,rmse
-60,RND,NN,reg,43,dG_C5,Cofactor,rmse,"['N1_NBO-q', 'Nsub_NBO-q', 'C2_NBO-q', 'C3_NBO-q', 'C3sub_NBO-q', 'C4_NBO-q', 'C5_NBO-q', 'N1_f+', 'Nsub_f+', 'C2_f+', 'C3_f+', 'C4_f+', 'C5_f+', 'C6_f+', 'N1_f-', 'Nsub_f-', 'C2_f-', 'C3_f-', 'C3sub_f-', 'C4_f-']",4,"[16, 16]",0.01,200,0.3,0.0001,True,0.0001,False,0.9,0.999,1e-08,5.550111325686409

@@ -1,2 +1,0 @@
-train,split,model,type,seed,y,names,error_type,X_descriptors,n_estimators,max_depth,max_features,min_samples_split,min_samples_leaf,min_weight_fraction_leaf,ccp_alpha,oob_score,max_samples,rmse
-80,RND,RF,reg,43,dG_C5,Cofactor,rmse,"['N1_f-', 'C4H_f-', 'C4H_NBO-q']",100,100,0.25,2,1,0,0,False,0.75,0.9014251251885748
