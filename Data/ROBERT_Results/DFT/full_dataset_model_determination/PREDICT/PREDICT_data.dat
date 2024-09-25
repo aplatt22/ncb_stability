@@ -80,15 +80,15 @@ o  ML model MVL_90 (with no PFI filter) and Xy database were loaded, including:
    o  Outliers plot saved in PREDICT/Outliers_MVL_90_No_PFI.png
    o  Outlier values saved in PREDICT/Outliers_MVL_90_No_PFI.dat:
       Train: 4 outliers out of 107 datapoints (3.7%)
-      -  BMC_009 (5.0 SDs)
-      -  BMC_010 (2.1 SDs)
-      -  BMC_039 (2.9 SDs)
-      -  BMC_046 (3.3 SDs)
+      -  A4a (5.0 SDs)
+      -  A4b (2.1 SDs)
+      -  C2a (2.9 SDs)
+      -  C4b (3.3 SDs)
       Validation: 1 outliers out of 12 datapoints (8.3%)
-      -  BMC_045 (2.1 SDs)
+      -  C4a (2.1 SDs)
       Test: 2 outliers out of 13 datapoints (15.4%)
-      -  BMC_078 (2.1 SDs)
-      -  BMC_092 (2.5 SDs)
+      -  F5b (2.1 SDs)
+      -  G3b (2.5 SDs)
 
 
 ------- Starting model with PFI filter (only important descriptors used) -------
@@ -153,12 +153,12 @@ o  ML model MVL_85_PFI (with PFI filter) and Xy database were loaded, including:
    o  Outliers plot saved in PREDICT/Outliers_MVL_85_PFI.png
    o  Outlier values saved in PREDICT/Outliers_MVL_85_PFI.dat:
       Train: 4 outliers out of 101 datapoints (4.0%)
-      -  BMC_009 (5.3 SDs)
-      -  BMC_010 (2.6 SDs)
-      -  BMC_039 (2.9 SDs)
-      -  BMC_046 (3.0 SDs)
+      -  A4a (5.3 SDs)
+      -  A4b (2.6 SDs)
+      -  C2a (2.9 SDs)
+      -  C4b (3.0 SDs)
       Validation: 1 outliers out of 18 datapoints (5.6%)
-      -  BMC_045 (2.4 SDs)
+      -  C4a (2.4 SDs)
       Test: 0 outliers out of 13 datapoints (0.0%)
 
 Time PREDICT: 5.97 seconds

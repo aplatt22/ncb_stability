@@ -2,10 +2,10 @@
    o  Outliers plot saved in PREDICT/Outliers_MVL_85_PFI.png
    o  Outlier values saved in PREDICT/Outliers_MVL_85_PFI.dat:
       Train: 4 outliers out of 101 datapoints (4.0%)
-      -  BMC_009 (5.3 SDs)
-      -  BMC_010 (2.6 SDs)
-      -  BMC_039 (2.9 SDs)
-      -  BMC_046 (3.0 SDs)
+      -  A4a (5.3 SDs)
+      -  A4b (2.6 SDs)
+      -  C2a (2.9 SDs)
+      -  C4b (3.0 SDs)
       Validation: 1 outliers out of 18 datapoints (5.6%)
-      -  BMC_045 (2.4 SDs)
+      -  C4a (2.4 SDs)
       Test: 0 outliers out of 13 datapoints (0.0%)
