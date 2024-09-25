@@ -1,0 +1,23 @@
+   GoodVibes v3.2 2024/03/20 11:09:30
+   Citation: Luchini, G.; Alegre-Requena, J. V.; Funes-Ardoiz, I.; Paton, R. S. F1000Research, 2020, 9, 291.
+   GoodVibes version 3.2 DOI: 10.12688/f1000research.22758.1
+
+o  Requested: --spc spc --csv -c 1 
+
+   Temperature = 298.15 Kelvin   Concentration = 1.0 mol/L
+   All energetic values below shown in Hartree unless otherwise specified.
+
+   Using vibrational scale factor 1.0 for PBE1PBE/6-31+G(d) level of theory
+
+   Caution! Implicit solvation (SMD/CPCM) detected. Enthalpic and entropic terms cannot be safely separated. Use them at your own risk!
+
+   Entropic quasi-harmonic treatment: frequency cut-off value of 100.0 wavenumbers will be applied.
+   QS = Grimme: Using a mixture of RRHO and Free-rotor vibrational entropies.
+   REF: Grimme, S. Chem. Eur. J. 2012, 18, 9955-9964
+
+   Combining final single point energy with thermal corrections.
+
+   Structure,E_SPC,E,ZPE,H_SPC,T.S,T.qh-S,G(T)_SPC,qh-G(T)_SPC,
+   **********************************************************************************************************************************************
+o  hydride_opt,-0.646850,-0.628926,0.000000,-0.644490,0.009341,0.009341,-0.653831,-0.653831,
+   **********************************************************************************************************************************************
