@@ -1,7 +1,5 @@
-# Title of Publication
+# Computer-Aided Design of Stability-Enhanced Biomimetic Cofactors
 ## Alexandra P. Platt, Heidi Klem, Robert S. Paton
-
-# NOTE: update input files on the various scripts to match new names/locations
 
 This is a repository containing structures and analysis scripts used for the publication "TITLE OF PUBLICATION"
 
