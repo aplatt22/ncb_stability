@@ -7,7 +7,7 @@ This is a repository containing structures and analysis scripts used for the pub
 * Analysis/calculate_spearman_correlation.ipynb
     * Calculates the Spearman rank correlation for the DFT and semi-empirical predictive models
     * Required: Stability values (predicted and calculated) for the BMC library
-    * Generated: PANDAS dataframe for R$^{2}$ and p-values
+    * Generated: PANDAS dataframe for R<sup>2</sup> and p-values
 * Analysis/extract_dft_descriptors.ipynb
     * Reads DFT files (optimizations, vibrational frequencies, single point energies, NBO calculations) and creates a CSV file of relevant/calculated descriptors
     * Required: Goodvibes output file for BMC library (oxidized, reduced, and decomposed), NBO calculation QM output files, Fukui index CSV for each BMC
