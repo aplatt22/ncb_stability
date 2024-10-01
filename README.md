@@ -1,9 +1,9 @@
 # Computer-Aided Design of Stability-Enhanced Biomimetic Cofactors
-## Alexandra P. Platt, Heidi Klem, Robert S. Paton
+## Alexandra P. Platt, Heidi Klem, Yannick J. Bomble, Robert S. Paton
 
-This is a repository containing structures and analysis scripts used for the publication "TITLE OF PUBLICATION"
+This is a repository containing structures and analysis scripts used for the publication "Computer-Aided Design of Stability-Enhanced Biomimetic Cofactors"
 
-Scripts include:
+#### Scripts include:
 * Analysis/calculate_spearman_correlation.ipynb
     * Calculates the Spearman rank correlation for the DFT and semi-empirical predictive models
     * Required: Stability values (predicted and calculated) for the BMC library
@@ -61,6 +61,20 @@ Scripts include:
     * Required: ROBERT files (found in Data/ROBERT_Results/)
     * Generated: Parity plot and DFT heatmap SVG image files
 
+#### Required Packages:
+* RDKit (v2022.09.5)
+* Seaborn (v0.12.2)
+* Matplotlib (v3.7.1)
+* Pandas (v2.0.0)
+* GoodVibes (v3.2)
+* AQME (v1.3.0)
+* SciKit-Learn (v1.2.2)
+* SciPy (v1.10.1)
+* NumPy (v1.22.3)
+* Open Babel (v3.1.1)
+* DISCO (v1)
+* cclib (v1.7.2)
+* DBStep (v1.1.0)
 
 
 
