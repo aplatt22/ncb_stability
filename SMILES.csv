@@ -408,3 +408,5 @@ R3sub-II_reduced,N#CC1=CN(C2=CC=CC=C2)C=C(C(F)(F)F)C1
 R2sub-III_reduced,CC1=CN(C2=CC=C(O)C=C2)C=C(C(F)(F)F)C1
 R1sub-VI_reduced,NC(C1=CN(C2=CC(C(F)(F)F)=NC(C(F)(F)F)=C2)C=CC1)=O
 R2sub-IV_reduced,O=[N+]([O-])C1=CN(C2=CC=CC=C2)C=CC1
+NMNH_1-_reduced,[H]C1=CN([C@@H]2O[C@H](COP(=O)([O-])O)[C@@H](O)[C@H]2O)C=C(C(N)=O)C1
+NMNH_1-_inactive,[H]C1C=[N+]([C@@H]2O[C@H](COP(=O)([O-])O)[C@@H](O)[C@H]2O)C=C(C(N)=O)C1
