@@ -1,4 +1,4 @@
-name: BMCs
+name: NCBs
 channels:
   - conda-forge
   - defaults
@@ -330,4 +330,4 @@ dependencies:
   - zipp=3.15.0=pyhd8ed1ab_0
   - zlib=1.2.13=hd590300_5
   - zstd=1.5.2=h3eb15da_6
-prefix: /apps/conda/aplatt/envs/BMCs
+prefix: /apps/conda/aplatt/envs/NCBs
