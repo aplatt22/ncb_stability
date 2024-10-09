@@ -6,7 +6,7 @@
 
 source $HOME/.bash_profile
 
-source activate BMCs # activate your conda environment with AQME, OpenBabel, CREST, and CENSO
+source activate NCBs # activate your conda environment with AQME, OpenBabel, CREST, and CENSO
 
 ##################################################
 ###############    MAIN SCRIPT     ###############
@@ -14,7 +14,7 @@ source activate BMCs # activate your conda environment with AQME, OpenBabel, CRE
 
 
 # Run CSEARCH conformational search
-python -m aqme --csearch --program crest --input 'generated_bmcs.csv' --crest_keywords '-T 1 --ewin 12 -noreftopo' --cregen True --cregen_keywords '-T 1 --ethr 0.1 --rthr 0.125 --bthr 0.1'
+python -m aqme --csearch --program crest --input 'generated_ncbs.csv' --crest_keywords '-T 1 --ewin 12 -noreftopo' --cregen True --cregen_keywords '-T 1 --ethr 0.1 --rthr 0.125 --bthr 0.1'
 
 # Use obabel to convert sdf files to xyz for censo
 cd CSEARCH/
