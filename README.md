@@ -1,5 +1,5 @@
 # Computer-Aided Design of Stability-Enhanced Nicotinamide Cofactor Biomimetics
-## Alexandra P. Platt, Heidi Klem, Yannick J. Bomble, Robert S. Paton
+## Alexandra P. Platt, Heidi Klem, Sam J. B. Mallinson, Yannick J. Bomble, Robert S. Paton
 
 This is a repository containing structures and analysis scripts used for the publication "Computer-Aided Design of Stability-Enhanced Nicotinamide Cofactor Biomimetics"
 
